@@ -7,9 +7,14 @@ Disclaimer: This plan might not actually work. Use on your own risk.
 [1] Unlock Woodcutting
 [2] Unlock Firemaking
 [3] Unlock Hitpoints
-[4] TBA
-[5] TBA
-[6] TBA
+[4] Unlock Agility
+[5] Unlock Cooking
+[6] Unlock Prayer
+[7] Unlock Attack
+[8] Unlock Strength
+[9] TBA
+[10] TBA
+[11] TBA
 
 
 ---
